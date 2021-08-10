@@ -12,7 +12,7 @@
        
 :sparkles: Junior Developper here :sparkles:
 
-Currently focusing on the front-end but planning to work on the back later ! 
+Currently focusing on the front-end but planning to work on the back soon enough ! 
 
 ***
 
