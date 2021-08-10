@@ -1,4 +1,5 @@
-### Hi there 👋
+GraphicsGrid[ImageData@ImageResize[Binarize@Rasterize@Style["Hello-World!",99],130] 
+  /.{1→"",0→"#"}]
 
 <!--
 **Tatatarjaika/Tatatarjaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
